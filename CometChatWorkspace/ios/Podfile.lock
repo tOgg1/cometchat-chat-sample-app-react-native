@@ -1,7 +1,7 @@
 PODS:
   - boost (1.76.0)
   - CocoaAsyncSocket (7.6.5)
-  - cometchat-calls-sdk-react-native (4.0.2):
+  - cometchat-calls-sdk-react-native (4.0.4):
     - React-Core
     - react-native-webrtc
   - DoubleConversion (1.1.6)
@@ -381,7 +381,7 @@ PODS:
     - glog
   - react-native-background-timer (2.4.1):
     - React-Core
-  - react-native-cometchat-ui-kit (4.0.2):
+  - react-native-cometchat-ui-kit (4.1.0):
     - React-Core
   - react-native-keep-awake (4.0.0):
     - React
@@ -716,7 +716,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   boost: 57d2868c099736d80fcd648bf211b4431e51a558
   CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
-  cometchat-calls-sdk-react-native: ea52e3f34249a0245de44966693fa805b47fb6f7
+  cometchat-calls-sdk-react-native: df2a764e2b844e40f4e3d72b2faf15bee6410411
   DoubleConversion: 5189b271737e1565bdce30deb4a08d647e3f5f54
   FBLazyVector: 5d4a3b7f411219a45a6d952f77d2c0a6c9989da5
   FBReactNativeSpec: 3fc2d478e1c4b08276f9dd9128f80ec6d5d85c1f
@@ -750,7 +750,7 @@ SPEC CHECKSUMS:
   React-jsinspector: aaed4cf551c4a1c98092436518c2d267b13a673f
   React-logger: da1ebe05ae06eb6db4b162202faeafac4b435e77
   react-native-background-timer: 17ea5e06803401a379ebf1f20505b793ac44d0fe
-  react-native-cometchat-ui-kit: 15f2d32db9f6fe6ddb4633fe6e3e4589989f5210
+  react-native-cometchat-ui-kit: 5e2b5b1e07a6aca0eee2af4971e08d6cf3c82a1a
   react-native-keep-awake: afad8a51dfef9fe9655a6344771be32c8596d774
   react-native-netinfo: 27f287f2d191693f3b9d01a4273137fcf91c3b5d
   react-native-safe-area-context: 9e40fb181dac02619414ba1294d6c2a807056ab9
@@ -782,4 +782,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: ff3fa715fd2f03a7831c39e21fb709cc3275aa89
 
-COCOAPODS: 1.12.1
+COCOAPODS: 1.12.0
